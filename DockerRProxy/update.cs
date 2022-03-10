@@ -88,8 +88,5 @@ static class update
 
         foreach (var item in a)
             Console.WriteLine(item.ClusterId);
-        {
-
-        }
     }
 }
